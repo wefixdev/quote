@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13d5b531-f8bd-4301-94a0-cda238ce07e1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
+  <component name="ProjectId" id="1Yg1jgOvpIUXsKjQ3qHjV96Pq0Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Helpers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Helpers" />
+      <recent name="$PROJECT_DIR$/src/Services" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="QuoteTest.testLive" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <TestRunner class="Quotes\Tests\QuoteTest" file="$PROJECT_DIR$/tests/QuoteTest.php" method="testLive" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.QuoteTest.testLive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13d5b531-f8bd-4301-94a0-cda238ce07e1" name="Default Changelist" comment="" />
+      <created>1583349559440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583349559440</updated>
+      <workItem from="1583349560656" duration="3630000" />
+      <workItem from="1583413036985" duration="582000" />
+      <workItem from="1583413629224" duration="1160000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="340" y="-905" key="#CLI_Interpreters" timestamp="1583408757105">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="340" y="-905" key="#CLI_Interpreters/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583408757105" />
+    <state x="426" y="-978" key="#PHP" timestamp="1583353712693">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="426" y="-978" key="#PHP/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583353712693" />
+    <state x="405" y="-945" key="#QuoteTest.testLive" timestamp="1583408779101">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="405" y="-945" key="#QuoteTest.testLive/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583408779101" />
+    <state x="710" y="-1096" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583353673452">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="710" y="-1096" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583353673452" />
+    <state width="1226" height="251" key="GridCell.Tab.0.bottom" timestamp="1583411262811">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1226" height="251" key="GridCell.Tab.0.bottom/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583411262811" />
+    <state width="1226" height="251" key="GridCell.Tab.0.center" timestamp="1583411262810">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1226" height="251" key="GridCell.Tab.0.center/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583411262810" />
+    <state width="1226" height="251" key="GridCell.Tab.0.left" timestamp="1583411262809">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1226" height="251" key="GridCell.Tab.0.left/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583411262809" />
+    <state width="1226" height="251" key="GridCell.Tab.0.right" timestamp="1583411262810">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state width="1226" height="251" key="GridCell.Tab.0.right/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583411262810" />
+    <state x="573" y="-755" key="NewPhpClassDialog" timestamp="1583413735936">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="573" y="-755" key="NewPhpClassDialog/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583413735936" />
+    <state x="611" y="-797" width="673" height="472" key="find.popup" timestamp="1583349998659">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="611" y="-797" width="673" height="472" key="find.popup/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583349998659" />
+    <state x="496" y="-832" width="670" height="676" key="search.everywhere.popup" timestamp="1583413661296">
+      <screen x="-134" y="-1177" width="1920" height="1177" />
+    </state>
+    <state x="496" y="-832" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583413661296" />
+  </component>
+</project>
