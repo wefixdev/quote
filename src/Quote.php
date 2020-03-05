@@ -34,11 +34,11 @@ class Quote
     }
 
     /**
-     * @param string $date
+     * @param array $params
      * @return array
      */
-    public function historical(string $date)
+    public function historical($params)
     {
-        return $this->currencyLayer->historical(['date' => $date]);
+        return $this->currencyLayer->historical($params);
     }
 }

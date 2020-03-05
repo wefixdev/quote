@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13d5b531-f8bd-4301-94a0-cda238ce07e1" name="Default Changelist" comment="" />
+    <list default="true" id="13d5b531-f8bd-4301-94a0-cda238ce07e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Quote.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Quote.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Services/CurrencyLayerService.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Services/CurrencyLayerService.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +18,12 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1Yg1jgOvpIUXsKjQ3qHjV96Pq0Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Helpers" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -64,7 +75,8 @@
       <updated>1583349559440</updated>
       <workItem from="1583349560656" duration="3630000" />
       <workItem from="1583413036985" duration="582000" />
-      <workItem from="1583413629224" duration="1160000" />
+      <workItem from="1583413629224" duration="3136000" />
+      <workItem from="1583440112203" duration="510000" />
     </task>
     <servers />
   </component>
@@ -112,9 +124,10 @@
       <screen x="-134" y="-1177" width="1920" height="1177" />
     </state>
     <state x="611" y="-797" width="673" height="472" key="find.popup/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583349998659" />
-    <state x="496" y="-832" width="670" height="676" key="search.everywhere.popup" timestamp="1583413661296">
-      <screen x="-134" y="-1177" width="1920" height="1177" />
+    <state x="551" y="324" width="670" height="590" key="search.everywhere.popup" timestamp="1583439832499">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="496" y="-832" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/-134.-1177.1920.1177@-134.-1177.1920.1177" timestamp="1583413661296" />
+    <state x="551" y="324" width="670" height="590" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1583439832499" />
   </component>
 </project>
