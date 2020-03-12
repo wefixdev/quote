@@ -108,6 +108,10 @@ class CurrencyLayerService
 
         if (!empty($params)) {
             foreach ($params as $paramKey => $paramValue) {
+                if ($paramKey == 'currencies') {
+                    continue;
+                }
+
                 if (is_array($paramValue)) {
                     $paramValue = implode(',', $paramValue);
                 }
