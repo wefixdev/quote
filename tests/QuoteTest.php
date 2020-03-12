@@ -19,7 +19,10 @@ class QuoteTest extends TestCase
     public function testHistorical()
     {
         $quote = new Quote('3afee64bc9103f8fa5ea7ffbf9a86c76');
-        $quotes = $quote->historical('2020-01-01');
+        $dateTime = new \DateTime();
+        $dateTime = $dateTime->sub(new \DateInterval('P1D'));
+
+        $quotes = $quote->historical(['date' => $dateTime->format('Y-m-d')]);
         echo $quotes['quotes']['USDBRL'];
     }
 }

@@ -23,7 +23,7 @@ class ResponseHelper
             JSON_ERROR_UTF8 => 'JSON_ERROR_UTF8 - Malformed UTF-8 characters, possibly incorrectly encoded',
         ];
 
-        $data = json_decode($string, true);
+        $data = \json_decode($string, true);
 
         if (JSON_ERROR_NONE !== json_last_error()) {
             $last = json_last_error();
